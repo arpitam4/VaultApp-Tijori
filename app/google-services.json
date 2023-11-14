@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359221903093",
+    "project_id": "tijori-51dd4",
+    "storage_bucket": "tijori-51dd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359221903093:android:b29f99617249df67b0cfbc",
+        "android_client_info": {
+          "package_name": "com.example.tijori"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcT9pKUVHRx-JVaPrwXl9KY0D0fMUsldI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
