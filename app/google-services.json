@@ -1,26 +1,45 @@
 {
   "project_info": {
-    "project_number": "359221903093",
-    "project_id": "tijori-51dd4",
-    "storage_bucket": "tijori-51dd4.appspot.com"
+    "project_number": "151420897523",
+    "firebase_url": "https://tijori-fb9f0-default-rtdb.firebaseio.com",
+    "project_id": "tijori-fb9f0",
+    "storage_bucket": "tijori-fb9f0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:359221903093:android:b29f99617249df67b0cfbc",
+        "mobilesdk_app_id": "1:151420897523:android:76112c020173ebbbcd4f86",
         "android_client_info": {
           "package_name": "com.example.tijori"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "151420897523-hjc2f4d9pbggrl1i0ba097teqtfu91hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tijori",
+            "certificate_hash": "463c000b85aacb3e2a69c4e8435c6ce067c42611"
+          }
+        },
+        {
+          "client_id": "151420897523-ecea7g3obchmtoq47qu3ojaje2q0eb3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBcT9pKUVHRx-JVaPrwXl9KY0D0fMUsldI"
+          "current_key": "AIzaSyDXfmP57hwaWc8pJ5aJCc2ssHoWpcUt70E"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151420897523-ecea7g3obchmtoq47qu3ojaje2q0eb3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
