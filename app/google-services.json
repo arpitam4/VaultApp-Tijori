@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "151420897523-4ba4it5e5o4383ervotr9gviujq9mcqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tijori",
+            "certificate_hash": "c2ab7ce49cf4c63a02f341730de30ad811ebbac3"
+          }
+        },
+        {
           "client_id": "151420897523-hjc2f4d9pbggrl1i0ba097teqtfu91hv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
